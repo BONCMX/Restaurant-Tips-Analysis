@@ -45,44 +45,37 @@ pd.read_csv('https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
 ---
 
-## 📊 Key Findings
-
-### ✅ Insight 1: Smokers vs Non-Smokers
-- **Smokers tip more** on average (both mean and median).
-- Smokers have **wider tip distributions**, with more large values.
-- Non-smokers rarely tip more than $9.
-
-### ✅ Insight 2: Gender Comparison
-- **Male customers tip more** than females on average.
-- Tipping behavior among males is more spread out and includes more generous values.
-
-### ✅ Insight 3: Weekday vs Weekend
-- **Tips are higher on weekends**.
-- Weekday tips are more concentrated under $6.7.
-- Weekend tipping has more frequent high-value outliers.
-
-### ✅ Insight 4: Lunch vs Dinner
-- **Dinner receives higher tips** than lunch.
-- Dinner tips are more distributed and skewed towards high values.
-- Lunch is often more practical and lower-value.
-
-> 📍 These insights were derived from visualizations and central tendency statistics.
+## 🎯 Main Goals
+- Investigate whether tipping behavior differs between smokers and non-smokers
+- Examine how gender influences tip amount
+- Compare weekday and weekend tipping patterns
+- Analyze the difference between lunch and dinner tipping
+- Summarize the above insights into actionable findings
 
 ---
 
-## 📷 Sample Visualization
+## 📷Visualization & Insights ✅
+ 
 - **Tip distribution by smoking status:**
 ![image](https://github.com/user-attachments/assets/07f3f3ce-c546-46ea-8d65-3f206d2c0fbe)
-
+- Smokers tend to give higher tips on average.
+- The distribution for smokers is wider, indicating a more generous subgroup.
+- Non-smokers rarely tip above $9.
+  
 - **Tip distribution by gender status:**
 ![image](https://github.com/user-attachments/assets/296202b9-ef5f-402c-8a8b-fef7fee0137c)
+- Males consistently show higher tip means and medians than females.
+- Male tip distribution includes more frequent mid- to high-range tips.
 
 - **Tip distribution by weekend status:**
 ![image](https://github.com/user-attachments/assets/7c85e58d-94db-44c7-923e-eebc18648508)
+- Weekend customers tend to tip more generously than weekday diners.
+- Tip amounts are more concentrated and lower on weekdays.
 
 - **Tip distribution by meal status:**
 ![image](https://github.com/user-attachments/assets/14ded6b8-003b-42d4-a841-062a2f3cffb7)
-
+- Dinner has higher mean and median tip values.
+- Tips are more widely distributed at dinner, possibly reflecting celebratory or social contexts.
 
 
 
