@@ -27,9 +27,7 @@ The goal is to extract actionable insights using Python and visualize the findin
   - `day`: Day of the week
   - `time`: Lunch or Dinner
   - `size`: Number of people at the table
-
-> You can directly access the dataset via the above URL, or load it in code using:  
-```python
+```
 pd.read_csv('https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv')
 ```
 
@@ -74,5 +72,5 @@ pd.read_csv('https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
 ## 📷 Sample Visualization
 Tip distribution by smoking status:
+![image](https://github.com/user-attachments/assets/07f3f3ce-c546-46ea-8d65-3f206d2c0fbe)
 
-![Tip Distribution - Smokers vs Non-Smokers](images/smokers_vs_nonsmokers.png)
