@@ -71,16 +71,16 @@ pd.read_csv('https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 ---
 
 ## 📷 Sample Visualization
-Tip distribution by smoking status:
+- **Tip distribution by smoking status:**
 ![image](https://github.com/user-attachments/assets/07f3f3ce-c546-46ea-8d65-3f206d2c0fbe)
 
-Tip distribution by gender status:
+- **Tip distribution by gender status:**
 ![image](https://github.com/user-attachments/assets/296202b9-ef5f-402c-8a8b-fef7fee0137c)
 
-Tip distribution by weekend status:
+- **Tip distribution by weekend status:**
 ![image](https://github.com/user-attachments/assets/7c85e58d-94db-44c7-923e-eebc18648508)
 
-Tip distribution by meal status:
+- **Tip distribution by meal status:**
 ![image](https://github.com/user-attachments/assets/14ded6b8-003b-42d4-a841-062a2f3cffb7)
 
 
