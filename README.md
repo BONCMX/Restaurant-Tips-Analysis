@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Tips Analysis
 ![image](https://github.com/user-attachments/assets/075aed6c-b3ab-4f86-8b18-b744fae76a44)
 
-##Introduction
+## Introduction
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 
 The dataset consists of information from 244 restaurant bills, collected in the US in 1987.
