@@ -61,17 +61,17 @@ pd.read_csv('https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 - Smokers tend to give higher tips on average.
 - The distribution for smokers is wider, indicating a more generous subgroup.
 - Non-smokers rarely tip above $9.
-  
+--  
 - **Tip distribution by gender status:**
 ![image](https://github.com/user-attachments/assets/296202b9-ef5f-402c-8a8b-fef7fee0137c)
 - Males consistently show higher tip means and medians than females.
 - Male tip distribution includes more frequent mid- to high-range tips.
-
+--
 - **Tip distribution by weekend status:**
 ![image](https://github.com/user-attachments/assets/7c85e58d-94db-44c7-923e-eebc18648508)
 - Weekend customers tend to tip more generously than weekday diners.
 - Tip amounts are more concentrated and lower on weekdays.
-
+--
 - **Tip distribution by meal status:**
 ![image](https://github.com/user-attachments/assets/14ded6b8-003b-42d4-a841-062a2f3cffb7)
 - Dinner has higher mean and median tip values.
